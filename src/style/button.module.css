@@ -1,0 +1,13 @@
+/*test css modules*/
+.color {
+    color: red;
+    margin: 10px;
+}
+
+.out {
+    background-color: blue;
+}
+
+.out .inner {
+    background-color: green;
+}
